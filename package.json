@@ -1,0 +1,11 @@
+{
+  "author": "Bc. Robert Kovalcuk",
+  "devDependencies": {
+    "ts-node": "10.9.1"
+  },
+  "dependencies": {
+    "firebase": "9.14.0",
+    "@fastforward-digitisation/ezarchive-portalclient": "1.0.6",
+    "@chaosinsight/portalclient": "3.12.1"
+  }
+}

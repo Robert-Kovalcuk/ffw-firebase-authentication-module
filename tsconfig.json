@@ -1,0 +1,20 @@
+{
+	"compilerOptions": {
+		"target": "esnext",
+		"module": "commonjs",
+		"baseUrl": "src",
+		"paths": {
+			"authentication": ["authentication/*"],
+			"utilities": ["utilities/*"],
+			"firebase": ["firebase/*"],
+			"Observer": ["observer/*"]
+		}
+	},
+	"exclude": [
+		"node_modules"
+	],
+	"include": [
+		"src/**/*",
+		"src/index.ts"
+	]
+}
