@@ -2,7 +2,3 @@
 .github
 .gitignore
 node_modules
-
-# custom
-src
-tests
